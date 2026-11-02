@@ -93,6 +93,11 @@ The platform has generated and tested millions of candidate hypotheses. Here is 
 
 Three forward tests are sealed now and only count until they reach their floors. **Nothing here is a claim of profitable trading or a production edge.** Execution is paper-only. The platform is designed to stop unsupported claims from reaching production, and so far it has.
 
+<p align="center">
+  <img src="assets/charting-signal-foundry.png" alt="NP Command Center charting view: GOOG one-minute chart for the 30 October 2026 session with the Signal Foundry overlay, moving averages, VWAP, Bollinger bands, volume, RSI, MACD and a peer ticker strip" width="100%">
+  <br><sub>Charting view with the Signal Foundry overlay: 30 Oct 2026 session, historical minute data. Descriptive only, not a trading recommendation.</sub>
+</p>
+
 ## Technology
 
 **Languages:** Python (NumPy, pandas, SciPy) · JavaScript / Node.js<br>
@@ -106,5 +111,7 @@ Three forward tests are sealed now and only count until they reach their floors.
 This is an active, independent engineering and research project under daily development. The source is private because it's connected to live brokerage and cloud accounts. No result here should be read as investment performance or advice.
 
 <sub>Method attributions: López de Prado (purged and embargoed validation); Bailey and López de Prado (Deflated Sharpe); Bailey, Borwein, López de Prado and Zhu (probability of backtest overfitting). Implementation and operating controls are my own.</sub>
+
+<sub>© 2026 NP Command Center · Nilesh Patel. All rights reserved. Text, diagrams and screenshots may not be reused without permission.</sub>
 
 <sub>Contact: [LinkedIn](https://www.linkedin.com/in/nileshkpatel/)</sub>
