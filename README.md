@@ -59,6 +59,11 @@ The interesting problem isn't the trading. It's **how far AI-produced work can b
  Across both planes: issue & decision registers · gated deploys · release read-back · observability
 ```
 
+<p align="center">
+  <img src="assets/research-trust-plane.png" alt="Research and trust plane from the NP Command Center operator console: Signal Foundry sweeping 1,886,000 hypotheses per nightly sweep, five adversarial validation gates (N_eff floor, BH-FDR, CPCV, Deflated Sharpe, PBO ceiling), promotion vault showing 0 certified of 126 registered trials, and the rule: research may propose, only proof may promote" width="100%">
+  <br><sub>The research and trust plane as shown in the operator console (2 Nov 2026 snapshot). Registered trials are counted separately from research objects.</sub>
+</p>
+
 ## Major systems
 
 - **NP Command Center (platform & operator console).** The web applications, QA harnesses, deploy tooling, the issue register and the decision register.
