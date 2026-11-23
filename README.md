@@ -87,7 +87,7 @@ The interesting problem isn't the trading. It's **how far AI-produced work can b
 
 ## Current research position
 
-**As of late October 2026: 17 research objects registered, 0 confirmed edges.** That's not a gap in the story. It's the main result.
+**As of 21 November 2026: 18 research objects registered, 0 confirmed edges.** That's not a gap in the story. It's the main result.
 
 The platform has generated and tested millions of candidate hypotheses. Here is some of what the machinery has turned down:
 
